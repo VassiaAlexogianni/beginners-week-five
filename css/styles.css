@@ -1,7 +1,37 @@
-body {
-  padding-top: 5rem;
-}
+
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
 }
+
+#carouselExampleCaptions img {
+  height:400px;
+  object-fit:cover;
+}
+.align-center{
+  text-align: center;
+
+}
+.btn-primary{
+  margin-top: 13px;
+  background-color: violet;
+  border-color: black;
+}
+
+
+.carousel-caption h5 {
+font-size: 40px;
+font-weight: 600;
+padding-bottom: 32px;
+}
+.carousel-caption {
+background: rgba(255,255,255,0.2);
+
+}
+img{
+border-radius: 5px;
+
+}
+
+
+
